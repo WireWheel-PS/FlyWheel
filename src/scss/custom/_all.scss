@@ -82,7 +82,7 @@ Available media query mixins:
 }
 
 
-$brand-color: blue;
+$brand-color: #50c6db;
 .banner{
 	background-size: cover;
 	background-position: 100% 30%;
@@ -198,7 +198,8 @@ a{
 .header-wrapper {
 	.header{
 		img{
-			max-width: 145px;
+			max-width: 160px;
+			height: 60px;
 		}
 		.navbar{
 			margin-bottom: 0px !important;
