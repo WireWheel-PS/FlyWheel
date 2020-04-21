@@ -92,14 +92,18 @@ $brand-color: #0071ce;
 	&.privacy-banner{
 		background-image: url('../../src/images/trustcenter.jpg');
 		display: block;
+		background-position: center;
+
 	}
 	&.centerofexcellence-banner{
-		background-image: url('../../src/images/banner1.jpg');
+		background-image: url('../../src/images/trustcenter.jpg');
 		display: block;
+		background-position: center;
 	}
 	&.index-banner{
 		background-image: url('../../src/images/trustcenter.jpg');
 		display: block;
+		background-position: center;
 	}
 }
 a{
